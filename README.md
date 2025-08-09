@@ -1,5 +1,6 @@
 # AI
 ## YouTube
+* [Gradient Descent in 3 minutes](https://www.youtube.com/watch?v=qg4PchTECck)
 * [Learn Ollama in 15 Minutes - Run LLM Models Locally for FREE](https://www.youtube.com/watch?v=UtSSMs6ObqY)
 
 ## Blogs
