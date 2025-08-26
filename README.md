@@ -5,6 +5,7 @@
 * [Logistic regression](https://www.youtube.com/watch?v=PIPVexXUvx0)
 * [Linear Regression vs Logistic Regression - What's The Difference?](https://www.youtube.com/watch?v=06en5XqdPkI)
 * [Regression vs. Classification in Machine Learning - Explained](https://www.youtube.com/watch?v=E3jaFfP5BAg)
+* [Why Do We Use the Sigmoid Function for Binary Classification?](https://www.youtube.com/watch?v=WsFasV46KgQ)
 * [Why We Don't Use the Mean Squared Error (MSE) Loss in Classification](https://www.youtube.com/watch?v=bNwI3IUOKyg)
 
 ## Blogs
