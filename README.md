@@ -18,4 +18,5 @@
 * [Tiktokenizer](https://tiktokenizer.vercel.app/)
 
 ## Misc.
+* [AINews](https://news.smol.ai/)
 * [LMArena](https://lmarena.ai/)
