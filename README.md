@@ -18,6 +18,7 @@
 
 ## Tools
 * [LLM Visualization](https://bbycroft.net/llm)
+* [LM Studio](https://lmstudio.ai/)
 * [Tiktokenizer](https://tiktokenizer.vercel.app/)
 
 ## Misc.
