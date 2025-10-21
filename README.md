@@ -21,6 +21,9 @@
 * [LM Studio](https://lmstudio.ai/)
 * [Tiktokenizer](https://tiktokenizer.vercel.app/)
 
+## LLM Leaderboards
+* [LMArena](https://lmarena.ai/)
+* [SEAL LLM Leaderboards](https://scale.com/leaderboard)
+
 ## Misc.
 * [AINews](https://news.smol.ai/)
-* [LMArena](https://lmarena.ai/)
