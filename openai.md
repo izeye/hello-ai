@@ -4,3 +4,6 @@
 
 ## Articles
 * [Data analysis with ChatGPT](https://help.openai.com/en/articles/8437071-data-analysis-with-chatgpt)
+
+## Features
+* [Voice with real-time video in ChatGPT](https://chatgpt.com/features/voice-with-video/)
