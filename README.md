@@ -19,6 +19,7 @@
 ## Tools
 * [LLM Visualization](https://bbycroft.net/llm)
 * [LM Studio](https://lmstudio.ai/)
+* [Model Atlas](https://huggingface.co/spaces/Eliahu/Model-Atlas)
 * [Tiktokenizer](https://tiktokenizer.vercel.app/)
 
 ## LLM Leaderboards
