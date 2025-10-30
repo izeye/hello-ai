@@ -24,6 +24,7 @@
 
 ## LLM Leaderboards
 * [LMArena](https://lmarena.ai/)
+* [OpenRouter Leaderboard](https://openrouter.ai/rankings)
 * [SEAL LLM Leaderboards](https://scale.com/leaderboard)
 
 ## Misc.
