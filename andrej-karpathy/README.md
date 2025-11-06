@@ -7,3 +7,4 @@
 
 ## Blogs
 * [Power to the people: How LLMs flip the script on technology diffusion](https://karpathy.bearblog.dev/power-to-the-people/)
+* [Vibe coding MenuGen](https://karpathy.bearblog.dev/vibe-coding-menugen/)
