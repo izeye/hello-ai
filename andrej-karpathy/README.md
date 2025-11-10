@@ -7,6 +7,7 @@
 
 ### Misc.
 * [Andrej Karpathy: Software Is Changing (Again)](https://www.youtube.com/watch?v=LCEmiRjPEtQ)
+* [CUDA Mode Keynote | Andrej Karpathy | Eureka Labs](https://www.youtube.com/watch?v=aR6CzM0x-g0)
 
 ## Blogs
 * [Power to the people: How LLMs flip the script on technology diffusion](https://karpathy.bearblog.dev/power-to-the-people/)
