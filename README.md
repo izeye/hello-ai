@@ -17,6 +17,7 @@
 * [Hyperbolic](https://app.hyperbolic.ai/)
 
 ## Tools
+* [Google Colaboratory](https://colab.google/)
 * [LLM Visualization](https://bbycroft.net/llm)
 * [LM Studio](https://lmstudio.ai/)
 * [Model Atlas](https://huggingface.co/spaces/Eliahu/Model-Atlas)
