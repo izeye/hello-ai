@@ -1,5 +1,11 @@
 # AI
 ## YouTube
+### Dwarkesh Patel
+* [Andrej Karpathy — “We’re summoning ghosts, not building animals”](https://www.youtube.com/watch?v=lXUZvyajciY)
+  * https://x.com/karpathy/status/1973435013875314729
+  * https://x.com/dwarkesh_sp/status/1968012981016608934
+
+### Misc.
 * [Gradient Descent in 3 minutes](https://www.youtube.com/watch?v=qg4PchTECck)
 * [L8.4 Logits and Cross Entropy](https://www.youtube.com/watch?v=icQaFxKa_J0)
 * [Learn Ollama in 15 Minutes - Run LLM Models Locally for FREE](https://www.youtube.com/watch?v=UtSSMs6ObqY)
