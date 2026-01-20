@@ -5,6 +5,9 @@
   * https://x.com/karpathy/status/1973435013875314729
   * https://x.com/dwarkesh_sp/status/1968012981016608934
 
+### The Pragmatic Engineer
+* [How AI will change software engineering – with Martin Fowler](https://www.youtube.com/watch?v=CQmI4XKTa0U)
+
 ### Misc.
 * [Gradient Descent in 3 minutes](https://www.youtube.com/watch?v=qg4PchTECck)
 * [L8.4 Logits and Cross Entropy](https://www.youtube.com/watch?v=icQaFxKa_J0)
