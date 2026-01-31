@@ -7,6 +7,7 @@
 
 ### The Pragmatic Engineer
 * [How AI will change software engineering – with Martin Fowler](https://www.youtube.com/watch?v=CQmI4XKTa0U)
+* [TDD, AI agents and coding with Kent Beck](https://www.youtube.com/watch?v=aSXaxOdVtAQ)
 
 ### Misc.
 * [Gradient Descent in 3 minutes](https://www.youtube.com/watch?v=qg4PchTECck)
