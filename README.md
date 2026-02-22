@@ -6,8 +6,9 @@
   * https://x.com/dwarkesh_sp/status/1968012981016608934
 
 ### The Pragmatic Engineer
-* [How AI will change software engineering – with Martin Fowler](https://www.youtube.com/watch?v=CQmI4XKTa0U)
-* [TDD, AI agents and coding with Kent Beck](https://www.youtube.com/watch?v=aSXaxOdVtAQ)
+* 2025-06-12: [TDD, AI agents and coding with Kent Beck](https://www.youtube.com/watch?v=aSXaxOdVtAQ)
+* 2025-11-20: [How AI will change software engineering – with Martin Fowler](https://www.youtube.com/watch?v=CQmI4XKTa0U)
+* 2026-01-29: [The creator of Clawd: "I ship code I don't read"](https://www.youtube.com/watch?v=8lF7HmQ_RgY)
 
 ### Misc.
 * [Gradient Descent in 3 minutes](https://www.youtube.com/watch?v=qg4PchTECck)
