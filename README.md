@@ -10,6 +10,9 @@
 * 2025-11-20: [How AI will change software engineering – with Martin Fowler](https://www.youtube.com/watch?v=CQmI4XKTa0U)
 * 2026-01-29: [The creator of Clawd: "I ship code I don't read"](https://www.youtube.com/watch?v=8lF7HmQ_RgY)
 
+### Y Combinator
+* 2026-02-08: [OpenClaw Creator: Why 80% Of Apps Will Disappear](https://www.youtube.com/watch?v=4uzGDAoNOZc)
+
 ### Misc.
 * [Gradient Descent in 3 minutes](https://www.youtube.com/watch?v=qg4PchTECck)
 * [L8.4 Logits and Cross Entropy](https://www.youtube.com/watch?v=icQaFxKa_J0)
