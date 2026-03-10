@@ -14,6 +14,7 @@
 * 2026-02-08: [OpenClaw Creator: Why 80% Of Apps Will Disappear](https://www.youtube.com/watch?v=4uzGDAoNOZc)
 
 ### Misc.
+* [A very subjective comparison of Claude Code, OpenCode, Cursor & GitHub Copilot](https://www.youtube.com/watch?v=dMSZ0WcK1oI)
 * [Gradient Descent in 3 minutes](https://www.youtube.com/watch?v=qg4PchTECck)
 * [L8.4 Logits and Cross Entropy](https://www.youtube.com/watch?v=icQaFxKa_J0)
 * [Learn Ollama in 15 Minutes - Run LLM Models Locally for FREE](https://www.youtube.com/watch?v=UtSSMs6ObqY)
