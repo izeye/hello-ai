@@ -9,6 +9,7 @@
 * 2025-06-12: [TDD, AI agents and coding with Kent Beck](https://www.youtube.com/watch?v=aSXaxOdVtAQ)
 * 2025-11-20: [How AI will change software engineering – with Martin Fowler](https://www.youtube.com/watch?v=CQmI4XKTa0U)
 * 2026-01-29: [The creator of Clawd: "I ship code I don't read"](https://www.youtube.com/watch?v=8lF7HmQ_RgY)
+* 2026-02-26: [Mitchell Hashimoto’s new way of writing code](https://www.youtube.com/watch?v=WjckELpzLOU)
 
 ### Y Combinator
 * 2026-02-08: [OpenClaw Creator: Why 80% Of Apps Will Disappear](https://www.youtube.com/watch?v=4uzGDAoNOZc)
