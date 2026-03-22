@@ -8,3 +8,4 @@
 * [Building makemore Part 5: Building a WaveNet](https://www.youtube.com/watch?v=t3YJ5hKiMQ0)
 * [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY)
 * [State of GPT | BRK216HFS](https://www.youtube.com/watch?v=bZQun8Y4L2A)
+* [Let's build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE)
