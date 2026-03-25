@@ -11,3 +11,4 @@
 * [Lesson 6: A closer look at Description | AI Fluency: Framework & Foundations Course](https://www.youtube.com/watch?v=DmgujoZ1mmk)
 * [Lesson 7: Effective prompting techniques (Deep Dive) | AI Fluency: Framework & Foundations Course](https://www.youtube.com/watch?v=2YCaBqP8muw)
 * [Lesson 8: A closer look at Discernment | AI Fluency: Framework & Foundations Course](https://www.youtube.com/watch?v=Y0KidGr9Z2Y)
+* [Lesson 10: A closer look at Diligence | AI Fluency: Framework & Foundations Course](https://www.youtube.com/watch?v=QbLf2zb3oPc)
