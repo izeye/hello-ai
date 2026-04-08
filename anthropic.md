@@ -2,6 +2,7 @@
 ## Claude Code Docs
 ### Getting started
 * [Overview](https://code.claude.com/docs/en/overview)
+* [Quickstart](https://code.claude.com/docs/en/quickstart)
 
 ## YouTube
 ### AI Fluency Course
