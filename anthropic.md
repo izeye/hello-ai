@@ -18,3 +18,6 @@
 * [Lesson 8: A closer look at Discernment | AI Fluency: Framework & Foundations Course](https://www.youtube.com/watch?v=Y0KidGr9Z2Y)
 * [Lesson 10: A closer look at Diligence | AI Fluency: Framework & Foundations Course](https://www.youtube.com/watch?v=QbLf2zb3oPc)
 * [Lesson 11: Conclusion | AI Fluency: Framework & Foundations Course](https://www.youtube.com/watch?v=ytEN_iAk09c)
+
+### Code w/ Claude on May 22, 2025 in San Francisco, CA, USA
+* [Building headless automation with Claude Code | Code w/ Claude](https://www.youtube.com/watch?v=dRsjO-88nBs)
