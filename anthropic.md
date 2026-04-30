@@ -21,3 +21,4 @@
 
 ### Code w/ Claude on May 22, 2025 in San Francisco, CA, USA
 * [Building headless automation with Claude Code | Code w/ Claude](https://www.youtube.com/watch?v=dRsjO-88nBs)
+* [Claude plays Pokemon | Code w/ Claude](https://www.youtube.com/watch?v=0XUzn-DEoY8)
