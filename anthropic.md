@@ -4,6 +4,9 @@
 * [Overview](https://code.claude.com/docs/en/overview)
 * [Quickstart](https://code.claude.com/docs/en/quickstart)
 
+### Core concepts
+* [How Claude Code works](https://code.claude.com/docs/en/how-claude-code-works)
+
 ## YouTube
 ### AI Fluency Course
 * [AI Fluency: Framework & Foundations Course Trailer](https://www.youtube.com/watch?v=-UN9sNqQ0t4)
