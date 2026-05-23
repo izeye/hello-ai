@@ -5,4 +5,5 @@
 
 ### First steps
 * [Getting started](https://docs.openclaw.ai/start/getting-started)
-* [Onboarding overview](https://docs.openclaw.ai/start/onboarding-overview)
+* [Onboarding Overview](https://docs.openclaw.ai/start/onboarding-overview)
+* [Onboarding: CLI](https://docs.openclaw.ai/start/wizard)
