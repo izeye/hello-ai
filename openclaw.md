@@ -10,3 +10,7 @@
 
 ### Guides
 * [Personal assistant setup](https://docs.openclaw.ai/start/openclaw)
+
+## Install
+### Hosting
+* [Azure](https://docs.openclaw.ai/install/azure)
