@@ -5,6 +5,9 @@
   * https://x.com/karpathy/status/1973435013875314729
   * https://x.com/dwarkesh_sp/status/1968012981016608934
 
+### No Priors: AI, Machine Learning, Tech, & Startups
+* [Skill Issue: Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI](https://www.youtube.com/watch?v=kwSVtQ7dziU)
+
 ### The Pragmatic Engineer
 * 2025-06-12: [TDD, AI agents and coding with Kent Beck](https://www.youtube.com/watch?v=aSXaxOdVtAQ)
 * 2025-11-20: [How AI will change software engineering – with Martin Fowler](https://www.youtube.com/watch?v=CQmI4XKTa0U)
