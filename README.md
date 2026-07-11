@@ -8,6 +8,9 @@
 ### No Priors: AI, Machine Learning, Tech, & Startups
 * [Skill Issue: Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI](https://www.youtube.com/watch?v=kwSVtQ7dziU)
 
+### Sequoia Capital
+* [Andrej Karpathy: From Vibe Coding to Agentic Engineering](https://www.youtube.com/watch?v=96jN2OCOfLs)
+
 ### The Pragmatic Engineer
 * 2025-06-12: [TDD, AI agents and coding with Kent Beck](https://www.youtube.com/watch?v=aSXaxOdVtAQ)
 * 2025-11-20: [How AI will change software engineering – with Martin Fowler](https://www.youtube.com/watch?v=CQmI4XKTa0U)
