@@ -6,6 +6,7 @@
 * [How I use LLMs](https://www.youtube.com/watch?v=EWvNQjAaOHw)
 
 ### Misc.
+* [Andrej Karpathy on Future Of AI, LLM OS, and Building Ecosystems](https://www.youtube.com/watch?v=1UPEi095cfo)
 * [Andrej Karpathy: Software Is Changing (Again)](https://www.youtube.com/watch?v=LCEmiRjPEtQ)
 * [CUDA Mode Keynote | Andrej Karpathy | Eureka Labs](https://www.youtube.com/watch?v=aR6CzM0x-g0)
 
